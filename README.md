@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhosh!
 
-🎯 Aspiring Software Engineer | MERN Stack Developer | AI/ML Learner  
+🎯 Aspiring Software Engineer | MERN Stack Developer | AI, ML Explorer
 🚀 Passionate about solving real-world problems and building impactful products.
 
 ---
