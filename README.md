@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santhosh-charanthu-bb6102300/)  
-- 💻 [Portfolio](https://santhosh-charanthu-portfolio.netlify.app/)  
+- 💻 [Portfolio](https://santhoshcharanthu.netlify.app/)  
 - 📸 [Instagram](https://www.instagram.com/santhosh_ssr/)  
 - 🧑‍💻 [GitHub](https://github.com/Santhosh-Charanthu)
 
