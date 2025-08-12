@@ -11,7 +11,7 @@
 - 🔭 Currently building a **Centralized Club Management System** for colleges to manage events and members efficiently.
 - 🌱 Deeply focused on mastering **DSA**, **Backend Engineering**. 
 - 💡 I love turning ideas into products using clean and scalable code.
-- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, or **Data Structures**.
+- 💬 Ask me about **Next.js** **React.js**, **Node.js**, **MongoDB**, or **Data Structures**.
 - ⚡ Fun fact: I turn concepts into code and challenges into features.
 ---
 
@@ -21,7 +21,7 @@
 `Java` `JavaScript` `Python`
 
 **Frontend:**  
-`React.js` `HTML` `CSS` `JavaScript` `EJS`
+`Next.js` `React.js` `HTML` `CSS` `JavaScript` `EJS`
 
 **Backend:**  
 `Node.js` `Express.js`
@@ -31,9 +31,6 @@
 
 **Tools & Platforms:**  
 `Git` `GitHub` `VS Code` `hopscotch` `Render` `Netlify`
-
-**AI/ML Tools (Learning):**  
-`NumPy` `Pandas` `Scikit-learn` `Google Colab` `OpenAI APIs`
 
 ---
 
