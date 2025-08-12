@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santhosh!
 
-🎯 Aspiring Software Engineer | MERN Stack Developer | Programmer | AI, ML Explorer    
+🎯 Aspiring Software Engineer | MERN Stack Developer | Programmer  
 🚀 Passionate about solving real-world problems and building impactful products.
 
 ---
@@ -9,7 +9,7 @@
 
 - 🎓 3rd Year B.Tech Student | Tech Enthusiast
 - 🔭 Currently building a **Centralized Club Management System** for colleges to manage events and members efficiently.
-- 🌱 Deeply focused on mastering **DSA**, **Backend Engineering**, and **Machine Learning**.
+- 🌱 Deeply focused on mastering **DSA**, **Backend Engineering**. 
 - 💡 I love turning ideas into products using clean and scalable code.
 - 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, or **Data Structures**.
 - ⚡ Fun fact: I turn concepts into code and challenges into features.
