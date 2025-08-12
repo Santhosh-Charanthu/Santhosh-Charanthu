@@ -39,7 +39,7 @@
 
 ## 🛠️ Projects
 
-### ClubNest – Centralized Club Management System
+### ClubXplore – Centralized Club Management System
 > A full-featured platform to register colleges, clubs, and events, with custom visibility, admin authentication, and participant management. Built with **Node.js**, **Express**, **MongoDB**, and **EJS**.
 
 ### 📝 [DraftNest – Auto-Save Blog Editor](https://blognest-kmn1.onrender.com)  
